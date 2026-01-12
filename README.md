@@ -1,11 +1,12 @@
 📚 C++ Module 01 - Detailed Exercise Breakdown
+
 🧟 ex00: BraiiiiiiinnnzzzZ
 Topic: Memory Allocation (Stack vs Heap)
-
 Creates Zombie class with basic constructor/destructor
 Implements newZombie() - allocates zombie on heap (with new)
 Implements randomChump() - creates zombie on stack (automatic storage)
 Learning Goal: Understanding when objects persist beyond function scope 🔄
+
 🧟‍♂️ **ex01: Moar brainz! **
 Topic: Dynamic Array Allocation
 Creates zombieHorde() function that allocates N zombies using new[]
