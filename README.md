@@ -1,7 +1,7 @@
 📚 C++ Module 01 - Detailed Exercise Breakdown
 
 🧟 ex00: BraiiiiiiinnnzzzZ
-Topic: Memory Allocation (Stack vs Heap)
+Topic: Memory Allocation (Stack vs Heap)\n
 
 Creates Zombie class with basic constructor/destructor
 Implements newZombie() - allocates zombie on heap (with new)
